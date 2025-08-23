@@ -23,7 +23,7 @@ email: coneliusyukon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the Hobby Blog for Yukon Conelius. I write about 
   my hobbies and interests, which include programming, gaming, and music.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://yukoncorneli.us" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
