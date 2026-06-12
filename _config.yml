@@ -47,6 +47,9 @@ paginate: 5
 paginate_path: "/page:num/"
 permalink: /:categories/:year/:month/:day/:title/
 
+# Home page settings
+home_paginate_show_teasers: true
+
 # Archives
 collections:
   posts:
