@@ -20,12 +20,19 @@
 
 
 title: "The Island of Misfit Minis"
-email: coneliusyukon@gmail.com
+email: yuconcornelius@gmail.com
 description: >-
   This is the Hobby Blog for The Island of Misfit Minis. I write about 
   my hobbies and interests, which include programming, gaming, and music.
 baseurl: "/"
 url: "https://the-island-of-misfit-minis.blog"
+
+# Footer Links
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:yuconcornelius@gmail.com"
 
 theme: "minimal-mistakes-jekyll"
 
