@@ -20,7 +20,7 @@
 
 
 title: "The Island of Misfit Minis"
-email: coneliusyukon@gmail.com
+email: coneliusyukon+blog@gmail.com
 description: >-
   This is the Hobby Blog for The Island of Misfit Minis. I write about 
   my hobbies and interests, which include programming, gaming, and music.
@@ -32,7 +32,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:coneliusyukon@gmail.com"
+      url: "mailto:coneliusyukon+blog@gmail.com"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/"
