@@ -4,7 +4,6 @@ title:  "Welcome to Yukon Cornelius's Blog!"
 date:   2025-08-22 13:10:14 -0400
 categories: blog personal
 header:
-  image: /assets/images/posts/2025-08-22-test_first_post/rudolph_yukon_cu_shocked.jpg
   teaser: /assets/images/posts/2025-08-22-test_first_post/rudolph_yukon_cu_shocked.jpg
 ---
 
@@ -12,7 +11,7 @@ This is simply a test post.
 
 Here I am looking *Shocked*
 
-![Yukon Photo]({{ site.baseurl }}/assets/images/posts/2025-08-22-test_first_post/rudolph_yukon_cu_shocked.jpg)
+<img src="{{ site.baseurl }}/assets/images/posts/2025-08-22-test_first_post/rudolph_yukon_cu_shocked.jpg" alt="Yukon Photo" style="width: 400px; display: block; margin: 0 auto;">
 
 <!--more-->
 

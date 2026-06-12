@@ -63,6 +63,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+    values:
+      entries_layout: grid
 
 # Sidebar
 sidebar:
