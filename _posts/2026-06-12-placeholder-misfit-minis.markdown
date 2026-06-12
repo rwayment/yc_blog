@@ -4,9 +4,9 @@ title:  "Exploring the Island of Misfit Minis"
 date:   2026-06-12 10:00:00 -0400
 categories: announcement minis
 header:
-  overlay_image: /assets/images/site/headers/header-island.jpg
+  overlay_image: /assets/images/site/headers/header-island.png
   overlay_filter: 0.5 # This dims the image so your title is easy to read
-  teaser: /assets/images/site/headers/teaser-island.jpg
+  teaser: /assets/images/site/headers/teaser-island.png
   caption: "Concept art for the Island of Misfit Minis"
 ---
 
@@ -23,7 +23,7 @@ Welcome to the newest chapter of my hobby journey! This post serves as a templat
 *Caption: This is a 400px wide centered image.*
 
 ### Ready for your graphics!
-Once you save your new graphics as `header-island.jpg` and `teaser-island.jpg` in the `assets/images/site/headers/` folder, they will automatically appear in this post.
+Once you save your new graphics as `header-island.png` and `teaser-island.png` in the `assets/images/site/headers/` folder, they will automatically appear in this post.
 
 <!--more-->
 
