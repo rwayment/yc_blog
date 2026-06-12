@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Welcome to Yukon Cornelius's Blog!"
 date:   2025-08-22 13:10:14 -0400
 categories: blog personal
+header:
+  overlay_image: /assets/images/posts/2025-08-22-test_first_post/rudolph_yukon_cu_shocked.jpg
+  teaser: /assets/images/posts/2025-08-22-test_first_post/rudolph_yukon_cu_shocked.jpg
 ---
 
 This is simply a test post.
