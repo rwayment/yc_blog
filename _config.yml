@@ -32,7 +32,14 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:coneliusyukon@gmail.com"
+      url: "mailto:yuconcornelius@gmail.com"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/"
+
 
 theme: "minimal-mistakes-jekyll"
 
