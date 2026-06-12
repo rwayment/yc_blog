@@ -1,9 +1,11 @@
 ---
 layout: single
-title:  "Welcome to Yukon Cornelius's Blog!"
+title:  "Welcome to The island of Misfit Mini's Blog!"
 date:   2025-08-22 13:10:14 -0400
 categories: blog personal
 header:
+  overlay_image: /assets/images/site/headers/header-island.png
+  overlay_filter: 0.5 # This dims the image so your title is easy to read
   teaser: /assets/images/posts/2025-08-22-test_first_post/rudolph_yukon_cu_shocked.jpg
 ---
 
