@@ -1,0 +1,8 @@
+# Sidebar widgets for Minimal Mistakes
+# Add this file as _data/sidebar-nav.yml if you want to customize widgets
+
+- search
+- tag_cloud
+- archives
+- categories
+- nav

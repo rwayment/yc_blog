@@ -1,0 +1,10 @@
+# Navigation links for sidebar
+main:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Archive"
+    url: "/categories/"
+  - title: "Tags"
+    url: "/tags/"
